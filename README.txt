@@ -1,10 +1,6 @@
-Welcome to my data analyst platform 
+This repository shows projects regarding the vehicle industries and their sales performance over time.
 
-This repository shows projects regarding different industries and their performance over
-time.
-
-It emphasises the importance of data in our present generation and how it helps drive 
-impactful decision.
+It emphasises the importance of data in our present generation and how it helps drive impactful decisions.
 
 Credits:
 
